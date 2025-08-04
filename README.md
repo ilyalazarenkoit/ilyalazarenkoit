@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/illia-lazarenko-fullstack/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:lazarenko.buisness@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -34,9 +31,8 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,postgres,docker,git,tailwind,sendgrid" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyalazarenkoit&show_icons=true&theme=gruvbox&hide_border=false&rank_icon=github" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
