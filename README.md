@@ -47,4 +47,10 @@
 
 ---
 
-### 🚀 F
+### 🚀 Featured Projects
+
+- [`dental-crm-fe`](https://github.com/ilyalazarenkoit/dental-crm-fe) — **Frontend** for Nexa Dental CRM (Next.js + Tailwind + Zustand + React Hook Form)  
+- [`dental-crm-be`](https://github.com/ilyalazarenkoit/dental-crm-be) — **Backend** for Nexa Dental CRM (Nest.js + PostgreSQL + SendGrid)  
+- [`BarberRoom`](https://github.com/ilyalazarenkoit/BarberRoom) — Responsive landing page with barber profiles, detailed pages, and a discount wheel integrated with the CRM for lead generation  
+
+---
