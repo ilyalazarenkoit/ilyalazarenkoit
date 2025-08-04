@@ -30,15 +30,19 @@
 
 ### 🚀 Tech Stack
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyalazarenkoit&show_icons=true&theme=gruvbox&hide_border=false&rank_icon=github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,postgres,docker,git,tailwind,sendgrid" />
 </p>
+
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyalazarenkoit&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyalazarenkoit&show_icons=true&theme=gruvbox&hide_border=false&rank_icon=github" />
 </p>
 
 ---
