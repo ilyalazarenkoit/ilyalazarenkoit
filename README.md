@@ -1,18 +1,20 @@
 <h1 align="center">Hi, I'm Illia Lazarenko 👋</h1>
 
 <p align="center">
-  <strong>Fullstack Developer · React · Next.js · Node.js · CRM Architect</strong><br />
-  Building scalable SaaS and CRM systems for real-world industries
+  <strong>Fullstack Developer • Next.js • React • Node.js • CRM Architect</strong><br />
+  Building scalable SaaS & CRM solutions for real-world industries.
 </p>
 
-<br/>
+---
+
+### 📫 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/illia-lazarenko-fullstack/">
-    <img src="https://img.shields.io/badge/LinkedIn-Illia%20Lazarenko-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lazarenko.buisness@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lazarenko.buisness@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -20,23 +22,29 @@
 
 ### 🧠 About Me
 
-- 🇩🇪 Based in **Mannheim, Germany**
-- 🏗 Currently building a **CRM for dental clinics** in the DACH region (DE/AT/CH)
-- 🧩 Also working on a **barbershop landing** with discount-wheel and CRM API integration
-- 💡 Passionate about building clean, scalable, real-world web apps
-- 🤝 Open to **collaboration**, consulting, or freelance development
+- 🇩🇪 Based in Mannheim, Germany  
+- 🧑‍💻 Middle Frontend Developer at **Photovate GmbH** — building ERP systems for the solar industry  
+- 🧠 In my free time, I'm building **Nexa Dental CRM** — an AI-powered CRM for dental clinics (Next.js + NestJS + PostgreSQL + SendGrid)  
+- ⚙️ Tech Stack: `Next.js`, `React`, `TypeScript`, `Tailwind`, `NestJS`, `PostgreSQL`, `SendGrid`, `Docker`  
+- 💡 Focus: SaaS Platforms • CRM Systems • Developer Productivity • AI Integration  
+- 🤝 Open to remote opportunities and collaborations on cutting-edge products  
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,postgres,docker,git,tailwind,sendgrid" />
 </p>
 
 ---
 
-### 🚀 Projects
+### 📊 GitHub Stats
 
-- [`dental-crm`](https://github.com/illialazarenko/dental-crm) — Fullstack CRM for dental clinics with Nest.js backend, PostgreSQL & AI assistant  
-- [`barbershop-landing`](https)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyalazarenkoit&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 🚀 F
