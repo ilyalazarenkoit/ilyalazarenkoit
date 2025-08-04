@@ -37,9 +37,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+
 ![Illia Lazarenko stats](https://github-readme-stats.vercel.app/api?username=ilyalazarenkoit&show_icons=true&theme=radical)
-</p>
 
 ---
 
