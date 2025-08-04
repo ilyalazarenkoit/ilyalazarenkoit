@@ -21,7 +21,6 @@
 
 <!-- Icons from https://simpleicons.org/ -->
 
-![Illia Lazarenko stats](https://github-readme-stats.vercel.app/api?username=ilyalazarenkoit&show_icons=true&theme=radical)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" alt="Next.js" />
