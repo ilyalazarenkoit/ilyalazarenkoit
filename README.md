@@ -15,8 +15,6 @@
   - Barbershop landing with discount-wheel + CRM integration  
   - Dental CRM with AI-powered treatment note generation  
 - 💼 Always open to collaboration on innovative products  
-- 🧩 Gamer: Strategy & storytelling games like Baldur’s Gate 3 🎲
-
 ---
 
 ### 🔧 My Tech Stack
