@@ -49,8 +49,8 @@
 
 ### 🚀 Featured Projects
 
-- [`dental-crm-fe`](https://github.com/ilyalazarenkoit/dental-crm-fe) — **Frontend** for Nexa Dental CRM (Next.js + Tailwind + Redux + React Hook Form)  
-- [`dental-crm-be`](https://github.com/ilyalazarenkoit/dental-crm-be) — **Backend** for Nexa Dental CRM (Nest.js + PostgreSQL + SendGrid)  
+- [`Nexa Dental CRM (FE)`](https://github.com/ilyalazarenkoit/dental-crm-fe) — **Frontend** for Nexa Dental CRM (Next.js + Tailwind + Redux + React Hook Form)  
+- [`Nexa Dental CRM (BE)`](https://github.com/ilyalazarenkoit/dental-crm-be) — **Backend** for Nexa Dental CRM (Nest.js + PostgreSQL + SendGrid)  
 - [`BarberRoom`](https://github.com/ilyalazarenkoit/BarberRoom) — Responsive landing page with barber profiles, detailed pages, and a discount wheel integrated with the CRM for lead generation  
 - [`Eltis Test`](https://github.com/ilyalazarenkoit/eltis_test) — an English proficiency test for students who want to study in the United States. It was developed for JammSchool as part of their sales funnel 
 
